@@ -1,0 +1,15 @@
+# Rust build artifacts
+target/
+**/*.rs.bk
+*.pdb
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+
+# temporary backup
+/.rf-backup/
